@@ -1,4 +1,7 @@
 # Displaying various forms of text
+import streamlit as st
+
+
 st.title("Streamlit Text and Media Display")
 st.header("Header: Key Points")
 st.subheader("Subheader: More Details")
