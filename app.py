@@ -1,6 +1,6 @@
 # Displaying various forms of text
 import streamlit as st
-import Image
+from PIL import Image
 
 st.title("Streamlit Text and Media Display")
 st.header("Header: Key Points")
